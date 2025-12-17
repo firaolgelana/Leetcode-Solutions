@@ -2,22 +2,26 @@ class Solution:
     def maximumProfit(self, prices: List[int], k: int) -> int:
         n = len(prices)
 
-        @cache
-        def dfs(i, k, state):
-            if i == n or k == 0:
-                return 0 if state == 0 else -math.inf
+        dp = [[float('-inf')] * 3 for _ in range(k + 1)]
+        dp[0][0] = 0
 
-            ans = dfs(i + 1, k, state)
-            if state == 0:
-                ans = max(ans, -prices[i] + dfs(i + 1, k, 1))
-                ans = max(ans, prices[i] + dfs(i + 1, k, -1))
+        for t in range(1, k + 1):
+            dp[t][0] = 0
 
-            elif state == 1:
-                ans = max(ans, prices[i] + dfs(i + 1, k - 1, 0))
+        for price in prices:
+            new_dp = [[-math.inf] * 3 for _ in range(k + 1)]
+            for t in range(k + 1):
+                new_dp[t][0] = max(new_dp[t][0], dp[t][0])
+                new_dp[t][1] = max(new_dp[t][1], dp[t][1])
+                new_dp[t][2] = max(new_dp[t][2], dp[t][2])
 
-            elif state == -1:
-                ans = max(ans, -prices[i] + dfs(i + 1, k - 1, 0))
+                if t > 0:
+                    new_dp[t - 1][0] = max(new_dp[t - 1][0], dp[t][1] + price)
+                    new_dp[t - 1][0] = max(new_dp[t - 1][0], dp[t][2] - price)
 
-            return ans
+                new_dp[t][1] = max(new_dp[t][1], dp[t][0] - price)
+                new_dp[t][2] = max(new_dp[t][2], dp[t][0] + price)
 
-        return dfs(0, k, 0)
+            dp = new_dp
+
+        return max(dp[t][0] for t in range(k + 1))
