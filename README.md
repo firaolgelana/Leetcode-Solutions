@@ -13,3 +13,11 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 * Prepare for **coding interviews**
 * Maintain a public learning log
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
+<!---LeetCode Topics End-->
