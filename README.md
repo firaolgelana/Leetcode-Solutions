@@ -20,4 +20,9 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 |  |
 | ------- |
 | [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 <!---LeetCode Topics End-->
