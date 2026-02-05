@@ -19,6 +19,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Array
 |  |
 | ------- |
+| [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -30,4 +31,8 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 |  |
 | ------- |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
