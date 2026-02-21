@@ -1,16 +1,19 @@
 class Solution:
     def countPrimeSetBits(self, left: int, right: int) -> int:
         def is_prime(n):
-            if n <= 1:
-                return False
-            for i in range(2, int(n**0.5) + 1):
+            for i in range(2, int(sqrt(n)) + 1):
                 if n % i == 0:
                     return False
-            return True
-
+                    
+            return n >= 2
+        
         count = 0
-        for num in range(left, right + 1):
-            bits = num.bit_count()
-            count += is_prime(bits)
-
+        for i in range(left , right + 1):
+            new = i.bit_count()
+            if is_prime(new):
+                count += 1
         return count
+            
+            
+        
+        
