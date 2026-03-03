@@ -52,6 +52,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
