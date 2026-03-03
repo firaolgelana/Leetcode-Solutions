@@ -19,6 +19,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
@@ -49,6 +50,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
@@ -86,4 +88,8 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 <!---LeetCode Topics End-->
