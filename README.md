@@ -19,6 +19,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -33,6 +34,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -92,4 +95,8 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 <!---LeetCode Topics End-->
