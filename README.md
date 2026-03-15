@@ -146,9 +146,18 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
