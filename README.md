@@ -29,6 +29,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
@@ -62,6 +63,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
