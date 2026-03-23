@@ -24,6 +24,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -67,6 +68,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
