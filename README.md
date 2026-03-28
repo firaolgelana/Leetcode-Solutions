@@ -30,6 +30,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -50,6 +51,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
@@ -90,6 +92,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Binary Search Tree
@@ -151,6 +155,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -169,6 +174,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
