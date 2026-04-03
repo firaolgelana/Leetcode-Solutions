@@ -45,6 +45,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2751-robot-collisions](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1382-balance-a-binary-search-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
