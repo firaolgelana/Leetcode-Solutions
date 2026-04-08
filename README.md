@@ -46,6 +46,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3637-trionic-array-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2751-robot-collisions](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
