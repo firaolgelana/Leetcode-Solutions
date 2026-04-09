@@ -27,6 +27,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1822-sign-of-the-product-of-an-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -214,6 +215,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
+| [1822-sign-of-the-product-of-an-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
