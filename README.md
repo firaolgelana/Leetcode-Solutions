@@ -36,6 +36,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2751-robot-collisions](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
+| [3206-alternating-groups-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3379-transformed-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3379-transformed-array) |
@@ -86,6 +87,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3206-alternating-groups-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 | Problem Name | Difficulty |
