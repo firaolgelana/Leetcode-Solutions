@@ -56,6 +56,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -108,6 +109,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [0657-robot-return-to-origin](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
