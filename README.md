@@ -39,6 +39,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2463-minimum-total-distance-traveled](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
@@ -80,6 +81,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2615-sum-of-distances](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -187,6 +189,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
