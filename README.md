@@ -134,6 +134,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2452-words-within-two-edits-of-dictionary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
@@ -198,6 +199,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
