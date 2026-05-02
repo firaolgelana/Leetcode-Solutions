@@ -68,6 +68,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0788-rotated-digits](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -250,6 +251,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0788-rotated-digits](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
