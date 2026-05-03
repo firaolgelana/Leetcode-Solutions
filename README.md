@@ -127,6 +127,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -294,6 +295,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
