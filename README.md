@@ -283,6 +283,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -308,4 +309,8 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
