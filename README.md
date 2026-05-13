@@ -27,6 +27,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -91,6 +92,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -209,6 +211,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2615-sum-of-distances](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
