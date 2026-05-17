@@ -24,6 +24,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0848-shifting-letters](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -175,6 +176,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1306-jump-game-iii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
@@ -337,6 +339,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
