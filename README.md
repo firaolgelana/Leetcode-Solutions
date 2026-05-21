@@ -55,6 +55,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3206-alternating-groups-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -105,6 +106,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2615-sum-of-distances](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -167,6 +169,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -337,6 +340,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
