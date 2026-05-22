@@ -19,6 +19,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
@@ -211,6 +212,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
