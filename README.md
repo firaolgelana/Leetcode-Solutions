@@ -59,6 +59,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2784-check-if-array-is-good](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3112-minimum-time-to-visit-disappearing-nodes/) | Medium |
 | [3206-alternating-groups-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -180,6 +181,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2833-furthest-point-from-origin](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -355,6 +357,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
