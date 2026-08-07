@@ -184,6 +184,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3093-longest-common-suffix-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -220,6 +221,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Binary Search Tree
@@ -280,6 +282,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +314,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -377,5 +381,6 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
