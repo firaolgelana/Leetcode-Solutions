@@ -97,6 +97,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -184,6 +185,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3093-longest-common-suffix-queries](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
@@ -221,6 +223,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -342,6 +345,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
