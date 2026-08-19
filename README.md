@@ -28,6 +28,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [1306-jump-game-iii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -107,6 +108,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [0819-most-common-word](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -219,6 +221,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -290,6 +293,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
