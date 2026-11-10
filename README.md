@@ -80,6 +80,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3643-flip-square-submatrix-vertically](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -102,6 +103,7 @@ This repository contains my solutions to **LeetCode** problems. The goal of this
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3640-trionic-array-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/firaolgelana/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
